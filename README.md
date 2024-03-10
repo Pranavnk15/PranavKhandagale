@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pranav Khandagale</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer!!</h3>
 <img align="right" width="400"img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer">
 <p align="left"> <a href="https://twitter.com/pranavk2003" target="blank"><img src="https://img.shields.io/twitter/follow/pranavk2003?logo=twitter&style=for-the-badge" alt="pranavk2003" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Devops**
+- 🌱 I’m currently learning **DSA, MERN**
 
 - 📫 How to reach me **https://pranavnk15.github.io/web/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pranav-khandagale-977837221/](https://www.linkedin.com/in/pranav-khandagale-977837221/)
 
-- ⚡ Fun fact **I am a Coding Maniac 🤔😶‍🌫️😌**
+- ⚡  **I am a Coding Maniac 🤔😶‍🌫️😌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pranavk2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavk2003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-khandagale-977837221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-khandagale-977837221/" height="30" width="40" /></a>
 <a href="https://instagram.com/_pranav_khandagale_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pranav_khandagale_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/khandagalepranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khandagalepranav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/pranavnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pranavnk/" height="30" width="40" /></a>
 </p>
 
