@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranav Khandagale</h1>
-<h3 align="center">A passionate full-stack developer!!</h3>
+<h3 align="center">A Passionate Developer!!</h3>
 <img align="right" width="400"img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer">
 <p align="left"> <a href="https://twitter.com/pranavk2003" target="blank"><img src="https://img.shields.io/twitter/follow/pranavk2003?logo=twitter&style=for-the-badge" alt="pranavk2003" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, MERN**
 
-- 📫 How to reach me **https://pranavnk15.github.io/web/**
+- 📫 How to reach me **khandagalepranav1546@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pranav-khandagale-977837221/](https://www.linkedin.com/in/pranav-khandagale-977837221/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pranav-khandagale-977837221/](https://www.linkedin.com/in/pranav-khandagale-/)
 
 - ⚡  **I am a Coding Maniac 🤔😶‍🌫️😌**
 
